@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Eggs",
+      "price": 10,
+      "quantity": 5
+    },
+    {
+      "id": 2,
+      "title": "Apple",
+      "price": 25,
+      "quantity": 3
+    },
+    {
+      "id": 3,
+      "title": "Cricket Bat",
+      "price": 500,
+      "quantity": 2
+    },
+    {
+      "id": 4,
+      "title": "Peanut Butter",
+      "price": 350,
+      "quantity": 2
+    }
+  ],
+  "cart": {
+    "total": 0,
+    "products": []
+  }
+}
